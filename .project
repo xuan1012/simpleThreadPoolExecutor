@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SomeText</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/SomeTest/TestSort01.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/ideaFlot/java1901/%E8%83%A1%E6%98%8E%E8%BD%A9/%E7%BB%83%E4%B9%A0/java/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.java</locationURI>
+		</link>
+		<link>
+			<name>src/SomeTest/TestSort02.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/ideaFlot/java1901/%E8%83%A1%E6%98%8E%E8%BD%A9/%E7%BB%83%E4%B9%A0/java/TestSort02.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
